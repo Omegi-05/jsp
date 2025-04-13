@@ -206,7 +206,7 @@ span.Texte {
 #door {
   padding: 13rem 0.5rem;
   background-color: grey;
-  background-image: url(./Images-assets/Door_texture_VIERGE.png);
+  background-image: url(./Images-assets/door_texture_.png);
   display: flex;
   align-items: center;
   backface-visibility: hidden;
